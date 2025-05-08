@@ -1,5 +1,9 @@
 HueTime Lamp! — CSE Design Showcase Project
+
 Developed by: Team Salamander (W5): 
+
+![HueTime Lamp Wiring Diagram](https://github.com/user-attachments/assets/c6a87347-5621-490e-bbd0-ef207058e954)
+
 Hamze Sigale, Yogitha, Emelia, and Ismail Yusuf
 For our group project in CSE 1012: 3DP + Microcontrollers at the University of Minnesota Twin Cities, we set out to answer one question:
 How can we make a lamp that reflects the time and temperature of the day?
