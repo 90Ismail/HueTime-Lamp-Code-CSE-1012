@@ -4,6 +4,7 @@ Developed by: Team Salamander (W5):
 
 ![HueTime Lamp Wiring Diagram](https://github.com/user-attachments/assets/c6a87347-5621-490e-bbd0-ef207058e954)
 
+Made BY:
 Hamze Sigale, Yogitha, Emelia, and Ismail Yusuf
 For our group project in CSE 1012: 3DP + Microcontrollers at the University of Minnesota Twin Cities, we set out to answer one question:
 How can we make a lamp that reflects the time and temperature of the day?
@@ -35,5 +36,6 @@ Study Base: Hides all the wiring, actuators and sensors and houses the LCD displ
 We also had fun capturing photographic shots of the HueLight Lamp that showcases the gradient lighting effect, seashell shape, and LCD display.Showcase Reflection:
 We had a blast presenting HueTime at the Spring 2025 CSE Design Showcase, and it was inspiring to see all the other projects from my peers. 
 Checkout the In-Progress GitHub  Repository :github.com/90ismail
+
 #UMNCSE #HueTimeLamp #Arduino #NeoPixel #TMP36 #PCF8523 #SolidWorks #SmartLamp #WaveGradient #TetrisTheme #3DPrinting #Microcontrollers #PassByReference #TeamSalamander #Wokwi
 
